@@ -1,0 +1,10 @@
+POST http://localhost:8000/5698169736265728/computation
+Content-Type: application/json
+
+{
+  "values": {
+    "a": 12,
+    "b": 20,
+    "c": 40
+  }
+}

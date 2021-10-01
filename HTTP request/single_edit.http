@@ -1,0 +1,8 @@
+PUT http://localhost:8000/5629654941564928
+Content-Type: application/json
+Accept: application/json
+
+{
+  "fields": ["a", "b", "c"],
+  "op": "sub"
+}
